@@ -1,6 +1,6 @@
 {
   "name": "nobita-xss",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "nobita-xss",
   "main": "lib/nobita-xss.js",
   "dependencies": {},
