@@ -1,12 +1,10 @@
 {
   "name": "nobita-xss",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "nobita-xss",
   "main": "lib/nobita-xss.js",
   "dependencies": {},
   "devDependencies": {
-    "koa": "^2.5.0",
-    "koa-router": "^7.4.0"
   },
   "files": [
     "lib"
